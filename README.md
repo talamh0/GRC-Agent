@@ -15,16 +15,12 @@ The agent leverages **Natural Language Processing (NLP)** and **Retrieval-Augmen
  #  Screenshots  
 
 ### English Interface  
-![English UI](screenshots/ui_english.png)  
+![English UI](Screenshot 2025-09-07 at 6.43.55 PM.png)  
 
 ### Arabic Interface  
 ![Arabic UI](screenshots/ui_arabic.png)  
 
-### Example Query (English)  
-![English Query](screenshots/example_english.png)  
 
-### Example Query (Arabic)  
-![Arabic Query](screenshots/example_arabic.png)  
 
 ## Project Report  
 
