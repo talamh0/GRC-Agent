@@ -1,4 +1,4 @@
-# 🛡️ GRC-Agent  
+# GRC-Agent  
 
 The **GRC Agent** is a bilingual (Arabic & English) AI assistant that helps organizations in **Governance, Risk, and Compliance (GRC)** by delivering **instant, reliable, and source-backed answers** from official **National Cybersecurity Authority (NCA)** regulations in Saudi Arabia.  
 
@@ -12,22 +12,20 @@ Core objectives of the system:
 - Provide fast, context-aware responses from NCA frameworks.  
 - Strengthen governance, risk management, and compliance within organizations.  
 
-## 📸 Screenshots  
+## Screenshots  
 
-### 🔹 English Interface  
-![English UI](image/Screenshot%202025-09-08%20at%2012.30.48%20PM.png)  
+###  English Interface  
+![English UI](image/Screenshot%202025-09-08%20at%2012.25.07%20PM.png)  
 
-### 🔹 Arabic Interface  
-![Arabic UI](image/Screenshot%202025-09-08%20at%2012.22.26%20PM.png)  
-
-### 🔹 Example Query (English)  
+###  Example Query (English)  
 ![English Query](image/Screenshot%202025-09-08%20at%2012.24.10%20PM.png)  
 
-### 🔹 Example Query (Arabic)  
-![Arabic Query](image/Screenshot%202025-09-08%20at%2012.21.36%20PM.png)  
+###  Arabic Interface  
+![Arabic UI](image/Screenshot%202025-09-08%20at%2012.22.26%20PM.png)  
 
-### 🔹 Landing Page  
-![Landing Page](image/Screenshot%202025-09-08%20at%2012.25.07%20PM.png)  
+### Example Query (Arabic)  
+![Arabic Query](image/Screenshot%202025-09-08%20at%2012.39.07%20PM.png) 
+
 
 ## 📊 Evaluation  
 
@@ -52,6 +50,11 @@ For a detailed explanation of the project design, methodology, evaluation, and r
 
 [📄 GRC Agent – Final Report (PDF)](GRC%20Agent%20–%20Final%20Report.pdf)  
 
+## 🔗 Team LinkedIn Profiles  
+
+- [Tala Mohammed](https://www.linkedin.com/in/tala-mohammed) – Computer Science Student at King Saud University  
+- [Jana Shata](https://www.linkedin.com/in/jana-shata) – Artificial Intelligence Student | Python Programmer | Data Analyst  
+
 
 ## 🛠 Built With  
 
@@ -61,11 +64,24 @@ For a detailed explanation of the project design, methodology, evaluation, and r
 - ![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?style=for-the-badge&logo=q&logoColor=white)  
 - ![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-5D3FD3?style=for-the-badge&logo=OpenAI&logoColor=white)  
 
-## 🎯 How to Run  
+##  How to Run  
 
 ### 1️⃣ Clone the repository  
 ```bash
 git clone https://github.com/your-username/GRC-Agent.git
 cd GRC-Agent
 ```
-
+### 2️⃣ Install dependencies 
+```bash
+pip install -r requirements.txt
+```
+### 3️⃣ Start Qdrant (Docker)
+```bash
+docker run -d -p 6333:6333 -p 6334:6334 \
+-v "$(pwd)/qdrant_storage:/qdrant/storage:z" \
+qdrant/qdrant
+```
+### 4️⃣ Run the application
+```bash
+streamlit run app.py
+```
