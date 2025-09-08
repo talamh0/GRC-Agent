@@ -50,10 +50,15 @@ For a detailed explanation of the project design, methodology, evaluation, and r
 
 [📄 GRC Agent – Final Report (PDF)](GRC%20Agent%20–%20Final%20Report.pdf)  
 
-## 🔗 Team LinkedIn Profiles  
+## 🔗 Team LinkedIn
 
-- [Tala Mohammed](https://www.linkedin.com/in/tala-mohammed)  
-- [Jana Shata](https://www.linkedin.com/in/jana-shata) 
+<div align="left">
+
+[![Tala Mohammed – LinkedIn](https://img.shields.io/badge/LinkedIn-Tala_Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_TALA_LINK_HERE)
+
+[![Jana Shata – LinkedIn](https://img.shields.io/badge/LinkedIn-Jana_Shata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_JANA_LINK_HERE)
+
+</div>
 
 
 ## 🛠 Built With  
