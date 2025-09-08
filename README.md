@@ -28,3 +28,21 @@ Core objectives of the system:
 
 ### 🔹 Landing Page  
 ![Landing Page](image/Screenshot%202025-09-08%20at%2012.25.07%20PM.png)  
+
+## 📊 Evaluation  
+
+The GRC Agent was evaluated using a **custom bilingual dataset** (Arabic & English) built from the official NCA cybersecurity regulations (ECC & CSCC).  
+The evaluation tested the system’s ability to retrieve and generate accurate answers across different query types.  
+
+###  Datasets  
+- **Final_ECC_CSCC_Evaluation_ENG_Dataset.xlsx** → English evaluation dataset  
+- **Final_ECC_CSCC_Evaluation_AR_Dataset.xlsx** → Arabic evaluation dataset  
+- **evaluation_dataset_full_xlsx.xlsx** → Combined bilingual dataset  
+- **kaust_project_evaluation.ipynb** → Notebook for evaluation workflow and metrics  
+
+### Metrics Used  
+- **Recall** – ability to retrieve the correct regulatory content.  
+- **Precision** – accuracy of retrieved responses.  
+- **Accuracy** – overall correctness of generated answers.  
+- **Groundness** – extent to which answers are grounded in the source documents.  
+
