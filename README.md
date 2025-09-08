@@ -52,8 +52,8 @@ For a detailed explanation of the project design, methodology, evaluation, and r
 
 ## 🔗 Team LinkedIn Profiles  
 
-- [Tala Mohammed](https://www.linkedin.com/in/tala-mohammed) – Computer Science Student at King Saud University  
-- [Jana Shata](https://www.linkedin.com/in/jana-shata) – Artificial Intelligence Student | Python Programmer | Data Analyst  
+- [Tala Mohammed](https://www.linkedin.com/in/tala-mohammed)  
+- [Jana Shata](https://www.linkedin.com/in/jana-shata) 
 
 
 ## 🛠 Built With  
