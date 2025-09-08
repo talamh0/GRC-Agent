@@ -1,32 +1,30 @@
-#  GRC-Agent  
+# 🛡️ GRC-Agent  
 
-An intelligent bilingual (Arabic & English) assistant designed to help organizations in Saudi Arabia automate **Governance, Risk, and Compliance (GRC)** tasks.  
-The agent leverages **Natural Language Processing (NLP)** and **Retrieval-Augmented Generation (RAG)** to retrieve, interpret, and explain cybersecurity regulations issued by the **National Cybersecurity Authority (NCA)**.  
+The **GRC Agent** is a bilingual (Arabic & English) AI assistant that helps organizations in **Governance, Risk, and Compliance (GRC)** by delivering **instant, reliable, and source-backed answers** from official **National Cybersecurity Authority (NCA)** regulations in Saudi Arabia.  
 
-##  Features  
+Using **Natural Language Processing (NLP)** and **Retrieval-Augmented Generation (RAG)**, the system simplifies access to lengthy cybersecurity guidelines, reduces manual effort, and enables quick compliance checks in both Arabic and English.  
 
--  **Bilingual Support** – Understands and answers in **Arabic & English**.  
-- **Regulation-Aware** – Tailored to **NCA’s cybersecurity frameworks**.  
--  **Smart Retrieval** – Hybrid search with control ID detection + semantic similarity.  
--  **Conversational Memory** – Maintains context across interactions.  
--  **Fast & Accurate** – Custom RAG pipeline with optimized embeddings.  
--  **Evaluation-Ready** – Tested on a bilingual dataset with strong recall performance (0.8275).
+By combining **AI-driven retrieval, multilingual embeddings, and a conversational interface**, the GRC Agent ensures regulatory knowledge is always **accessible, accurate, and aligned with Saudi Vision 2030** goals for digital transformation.  
 
- #  Screenshots  
+Core objectives of the system:  
+- Simplify access to official cybersecurity guidelines.  
+- Support bilingual interaction (Arabic & English).  
+- Provide fast, context-aware responses from NCA frameworks.  
+- Strengthen governance, risk management, and compliance within organizations.  
 
-### English Interface  
-![English UI](Screenshot 2025-09-07 at 6.43.55 PM.png)  
+## 📸 Screenshots  
 
-### Arabic Interface  
-![Arabic UI](screenshots/ui_arabic.png)  
+### 🔹 English Interface  
+![English UI](image/Screenshot%202025-09-08%20at%2012.30.48%20PM.png)  
 
+### 🔹 Arabic Interface  
+![Arabic UI](image/Screenshot%202025-09-08%20at%2012.22.26%20PM.png)  
 
+### 🔹 Example Query (English)  
+![English Query](image/Screenshot%202025-09-08%20at%2012.24.10%20PM.png)  
 
-## Project Report  
+### 🔹 Example Query (Arabic)  
+![Arabic Query](image/Screenshot%202025-09-08%20at%2012.21.36%20PM.png)  
 
-For a detailed explanation of the project, methodology, results, and future work, please refer to the **Final Report**:  
-
-[📄 GRC Agent – Final Report (PDF)](GRC%20Agent%20–%20Final%20Report.pdf)  
-
- 
-
+### 🔹 Landing Page  
+![Landing Page](image/Screenshot%202025-09-08%20at%2012.25.07%20PM.png)  
