@@ -54,9 +54,9 @@ For a detailed explanation of the project design, methodology, evaluation, and r
 
 <div align="left">
 
-[![Tala Mohammed – LinkedIn](https://img.shields.io/badge/LinkedIn-Tala_Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_TALA_LINK_HERE)
+[![Tala Mohammed – LinkedIn](https://img.shields.io/badge/LinkedIn-Tala_Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talamohammed11?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[![Jana Shata – LinkedIn](https://img.shields.io/badge/LinkedIn-Jana_Shata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_JANA_LINK_HERE)
+[![Jana Shata – LinkedIn](https://img.shields.io/badge/LinkedIn-Jana_Shata-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jana-shata?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 </div>
 
