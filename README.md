@@ -44,5 +44,28 @@ The evaluation tested the system’s ability to retrieve and generate accurate a
 - **Recall** – ability to retrieve the correct regulatory content.  
 - **Precision** – accuracy of retrieved responses.  
 - **Accuracy** – overall correctness of generated answers.  
-- **Groundness** – extent to which answers are grounded in the source documents.  
+- **Groundness** – extent to which answers are grounded in the source documents.
+
+## 📑 Project Report  
+
+For a detailed explanation of the project design, methodology, evaluation, and results, please refer to the full report:  
+
+[📄 GRC Agent – Final Report (PDF)](GRC%20Agent%20–%20Final%20Report.pdf)  
+
+
+## 🛠 Built With  
+
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+- ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+- ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)  
+- ![Qdrant](https://img.shields.io/badge/Qdrant-FF6F00?style=for-the-badge&logo=q&logoColor=white)  
+- ![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-5D3FD3?style=for-the-badge&logo=OpenAI&logoColor=white)  
+
+## 🎯 How to Run  
+
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/your-username/GRC-Agent.git
+cd GRC-Agent
+```
 
